@@ -1,1 +1,5 @@
 #+TITLE: Njelat
+
+* General Info
+
+*Njelat* is the capital of the [[./esiikiva-country.org][Union of the merchant cities of Esiikiva]]. With a population of two hundred thousands souls, it is the biggest city on the east coast of the continent, and only second to [[./si-eten_city.org][Si'eten]], the capital of the [[./na-aavan_country.org][Kingdom of Na'aavan]] in the whole continent
