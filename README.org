@@ -1,6 +1,10 @@
 #+TITLE: Nja'elavin
 #+AUTHOR: Annwan
 
+#+BEGIN_VERSE
+Non-links are yet to do or migrate
+#+END_VERSE
+
 * Places
 ** [[./esiikiva_country.org][Esiikiva]]
 - [[./njelat_city.org][Njelat]]
@@ -9,18 +13,18 @@
 - Talekoon
 - Tja...
 ** Na'aavin
-- Si'eten
+- [[./si-eten_city.org][Si'eten]]
 ** Tjeehevan Desert
 * Languages
-** Esiikivan
-** Na'aavan
-** North-Eastern islander
-** Nomadic Tjeehevan
+- Esiikivan
+- Na'aavan
+- North-Eastern islander
+- Nomadic Tjeehevan
 * History
-** First Era
-** Second Era
+- First Era
+- Second Era
 * Maps
-** TODO Global
-** TODO Na'aavin
-** TODO Esiikiva
-** TODO North-East Islands
+- Global
+- Na'aavin
+- Esiikiva
+- North-East Islands
