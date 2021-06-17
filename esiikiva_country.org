@@ -1,1 +1,18 @@
 #+TITLE: Esiikiva
+
+** Abstract
+
+The union of the merchant cities of Esiikiva is a confederation of 6 trade focused city states on the east coast of Na’elavin. The member cities are, from north to south, [[./kasilee_city.org][Kasilee]], [[./takekoon_city.org][Talekoon]], [[./tjaakesiva_city.org][Tjaakesiva]], [[./njelat_city.org][Njelat]], [[./osehiin_city.org][Osehiin]] and [[./tjeelat_city.org][Tjeelat]]. 
+
+** Info Table
+
+| Capital  | [[./njelat_city.org][Njelat]]    |
+| Founding | 133 2E    |
+| Demonym  | Esiikivan |
+
+** Politics
+
+The union council sits in Njelat, which is the de facto capital, even if each city keeps a great deal of autonomy. The council is formed of the current governors of each city, as well as a consultative assembly elected by the citizens of the union.
+
+** Language
+The main language spoken in Esiikiva (also the official language, and the language of the administration) is [[./esiikivan_language.org][Esiikivan]], but we can also hear all sort of tongues accross the realm due to the heavy trade it is a part of.
