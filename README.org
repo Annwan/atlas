@@ -13,6 +13,7 @@ Non-Link items are yet to do or migrate, sorry for the inconvenience
 - [[./osehiin_city.org][Osehiin]]
 - [[./talekoon_city.org][Talekoon]]
 - [[./tjaakesiva_city.org][Tjaakesiva]]
+- [[./kasilee_city.org][Kasilee]]
 *** Na'aavin
 - [[./si-eten_city.org][Si'eten]]
 *** Tjeehevan Desert
