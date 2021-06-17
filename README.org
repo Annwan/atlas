@@ -14,7 +14,7 @@ Non-Link items are yet to do or migrate, sorry for the inconvenience
 - [[./talekoon_city.org][Talekoon]]
 - [[./tjaakesiva_city.org][Tjaakesiva]]
 - [[./kasilee_city.org][Kasilee]]
-*** Na'aavin
+*** [[./na-aavin_country.org][Na'aavin]]
 - [[./si-eten_city.org][Si'eten]]
 *** Tjeehevan Desert
 ** Languages
@@ -24,7 +24,7 @@ Non-Link items are yet to do or migrate, sorry for the inconvenience
 - Nomadic Tjeehevan
 ** History
 - First Era
-- Second Era
+- [[./2e_timeline.org][Second Era]]
 ** Maps
 - Global
 - Na'aavin
