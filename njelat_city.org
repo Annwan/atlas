@@ -1,10 +1,35 @@
 #+TITLE: Njelat
 
-* General Info
+
+
+* Abstract
 
 *Njelat* is the capital of the [[./esiikiva_country.org][Union of the merchant cities of Esiikiva]]. With a population
 of two hundred thousands souls, it is the biggest city on the east coast of the continent, and only second to
 [[./si-eten_city.org][Si'eten]], the capital of the [[./na-aavan_country.org][Kingdom of Na'aavan]] in the whole
 continent.
 
-*
+* Info block
+| Population       | 200 000                                  |
+| Country          | Union of the merchant cities of Esiikiva |
+| Governement Type | Council of Guilds                        |
+| Type             | Capital                                  |
+
+* Population
+
+Being the capital of a massiely trade focussed nation, Njelat is a melting pot of cultures. And asid from the Esiikivan
+majority we can also find Na'aavans, North-Eastern Islanders and Tjeehevan nomads.
+
+* Politics
+
+The city is managed by the Council of guilds, an organization comprised of all of the majors guilds in the city.
+However, Being the capital city, the government of the union also have a lot of control over local politics.
+
+* Economy
+
+Njelat's economy is mainly trade focused, with the Sailors' and sea traders' guild's Njelat division being one of the
+richest and most influential of the city. That said, the city also has a long tradition of high quality pottery and
+Njelat ceramics are sold at exorbitant prices all around the world.
+
+Surprisingly, despite the more outward foccused trading policies of the Union, commerce at Njelat is mostly of interior
+kind, delegating import and exports to more advantageously placed ports, such as [[./kasilee_city.org][Kasilee]].
