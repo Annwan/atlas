@@ -1,29 +1,30 @@
 #+TITLE: Nja'elavin
 #+AUTHOR: Annwan
 
-#+BEGIN_VERSE
-Non-links are yet to do or migrate
-#+END_VERSE
+#+begin_quote
+Non-Link items are yet to do or migrate, sorry for the inconvenience
+#+end_quote
 
-* Places
-** [[./esiikiva_country.org][Esiikiva]]
+
+** Places
+*** [[./esiikiva_country.org][Esiikiva]]
 - [[./njelat_city.org][Njelat]]
 - Tjelat
 - Osehiin
 - Talekoon
 - Tja...
-** Na'aavin
+*** Na'aavin
 - [[./si-eten_city.org][Si'eten]]
-** Tjeehevan Desert
-* Languages
+*** Tjeehevan Desert
+** Languages
 - Esiikivan
 - Na'aavan
 - North-Eastern islander
 - Nomadic Tjeehevan
-* History
+** History
 - First Era
 - Second Era
-* Maps
+** Maps
 - Global
 - Na'aavin
 - Esiikiva
