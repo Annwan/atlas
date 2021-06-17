@@ -9,15 +9,15 @@ Non-Link items are yet to do or migrate, sorry for the inconvenience
 ** Places
 *** [[./esiikiva_country.org][Esiikiva]]
 - [[./njelat_city.org][Njelat]]
-- Tjelat
-- Osehiin
-- Talekoon
-- Tja...
+- [[./tjeelat_city.org][Tjeelat]]
+- [[./osehiin_city.org][Osehiin]]
+- [[./talekoon_city.org][Talekoon]]
+- [[./tjaakesiva_city.org][Tjaakesiva]]
 *** Na'aavin
 - [[./si-eten_city.org][Si'eten]]
 *** Tjeehevan Desert
 ** Languages
-- Esiikivan
+- [[./esiikivan_language.org][Esiikivan]]
 - Na'aavan
 - North-Eastern islander
 - Nomadic Tjeehevan
