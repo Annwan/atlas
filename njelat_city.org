@@ -31,3 +31,5 @@ Njelat ceramics are sold at exorbitant prices all around the world.
 
 Surprisingly, despite the more outward foccused trading policies of the Union, commerce at Njelat is mostly of interior
 kind, delegating import and exports to more advantageously placed ports, such as [[./kasilee_city.org][Kasilee]].
+
+[[./README.org][Back to the menu]]
