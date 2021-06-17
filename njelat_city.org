@@ -1,7 +1,5 @@
 #+TITLE: Njelat
 
-
-
 * Abstract
 
 *Njelat* is the capital of the [[./esiikiva_country.org][Union of the merchant cities of Esiikiva]]. With a population
