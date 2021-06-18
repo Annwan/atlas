@@ -1,3 +1,9 @@
 #+TITLE: Esiikivan
 
+** Phonetics
+
+*** Consonants
+
+The Esiikivan language uses the following consonant.
+
 [[./README.org][Back to the menu]]
