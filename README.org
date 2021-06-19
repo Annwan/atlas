@@ -16,14 +16,15 @@ Non-Link items are yet to do or migrate, sorry for the inconvenience
 - [[./kasilee_city.org][Kasilee]]
 *** [[./na-aavin_country.org][Na'aavin]]
 - [[./si-eten_city.org][Si'eten]]
-*** Tjeehevan Desert
+*** [[./tjeehevan-desert_country.org][Tjeehevan Desert]]
+*** [[./ne-islands_country.org][North-East Islands]]
 ** Languages
 - [[./esiikivan_language.org][Esiikivan]]
-- Na'aavan
-- North-Eastern islander
-- Nomadic Tjeehevan
+- [[./na-aavan_language.org][Na'aavan]]
+- [[./ne-islander_language.org][North-Eastern Islander]]
+- [[./tjeehevan_language.org][Tjeehevan]]
 ** History
-- First Era
+- [[./1e_timeline.org][First Era]]
 - [[./2e_timeline.org][Second Era]]
 ** Maps
 - Global
