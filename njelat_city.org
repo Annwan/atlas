@@ -26,7 +26,7 @@ Surprisingly, despite the more outward foccused trading policies of the Union, c
 
 ** History
 
-Before the capital of the Union was moved from [[./tjeelat_city.org][Tjeelat]] the city was known as Sa'ekiila. This is still visible on some of the older buildings of the city, such as the town hall where we can read =Sa'ekillen Kaatanan Okatale= which mean “House of the guilds of Sa'ekiila”.
+Before the capital of the Union was moved from [[./tjeelat_city.org][Tjeelat]] the city was known as Sa'ekiila. This is still visible on some of the older buildings of the city, such as the town hall where we can read =Sa'ekiilen Kaatanan Okatale= which mean “House of the guilds of Sa'ekiila”.
 
 
 [[./README.org][Back to the menu]]

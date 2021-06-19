@@ -2,7 +2,7 @@
 
 ** Abstract
 
-The union of the merchant cities of Esiikiva is a confederation of 6 trade focused city states on the east coast of Na’elavin. The member cities are, from north to south, [[./kasilee_city.org][Kasilee]], [[./takekoon_city.org][Talekoon]], [[./tjaakesiva_city.org][Tjaakesiva]], [[./njelat_city.org][Njelat]], [[./osehiin_city.org][Osehiin]] and [[./tjeelat_city.org][Tjeelat]]. 
+The union of the merchant cities of Esiikiva is a confederation of 6 trade focused city states on the east coast of Na’elavin. The member cities are, from north to south, [[./kasilee_city.org][Kasilee]], [[./talekoon_city.org][Talekoon]], [[./tjaakesiva_city.org][Tjaakesiva]], [[./njelat_city.org][Njelat]], [[./osehiin_city.org][Osehiin]] and [[./tjeelat_city.org][Tjeelat]].
 
 ** Info Table
 
