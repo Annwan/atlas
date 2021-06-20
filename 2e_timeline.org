@@ -28,4 +28,12 @@ Greedy of expension, the [[./na-aavin_country.org][Kingdom of Na'aavin]] planned
 
 ** =183 2E= [[./tjaakesiva_city.org][Tjaakesiva]] and [[./talekoon_city.org][Talekoon]] join the [[./esiikiva_country.org][Union of Esiikiva]]
 
+** =192 2E= The capital of the [[./esiikiva_country.org][Union of Merchant cities of Esiikiva]] is moved from [[./tjeelat_city.org][Tjeelat]] to [[./njelat_city.org][Njelat]].
+
+The union becoming harder and harder to manage from the remote and comparatively small city of [[./tjeelat_city.org][Tjeelat]], a general referundum accross asked about moving the capital. Despite huge resistance from Tjeelat itself (With more than 70% of votants asking aggainst) and a general indiference from
+
+** =210 2E= [[./kasilee_city.org][Kasilee]] join the [[./esiikiva_country.org][Union of Esiikiva]]
+
+** =533 2E= Nowdays, start of the campain
+
 [[./README.org][Back to the menu]]
