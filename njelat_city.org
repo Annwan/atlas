@@ -20,13 +20,13 @@ La ville est gouverné par le Conseil des Guildes, une organisation comprenant l
 
 ** Economie
 
-L'économie de Njelat tourne autour du commerce grace a la guilde des navigateurs et de la guilde des marins qui sont les plus influentes de la ville. Cela dit il y a tout de même a Njelat une long tradition des potteries et céramiques qui de leur haute qualité et popularité font parti des biens de luxes vendus dans le monde à des prix d'or.
+L'économie de Njelat tourne autour du commerce grace a la guilde des navigateurs et de la guilde des marins qui sont les plus influentes de la ville. Cela dit il y a tout de même a Njelat une long tradition des potteries et céramiques qui de leur haute qualité et popularité font parti des biens de luxe vendus dans le monde à des prix d'or.
 
 N'étant pas une ville frontalière, Njelat est une ville dont le commerce est centré sur l'intérieur dans un pays centré beaucoup sur l'import-export. Délégant ce dernier à des villes plus avantageusement situées telles que [[./kasilee_city.org][Kasilee]].
 
 ** Histoire
 
-Avant de remplacer [[./tjeelat_city.org][Tjeelat]] en temps que capitale de l'Union en 192 2E, la ville était connue sous le nom de Sa'ekiila. On peut encore de nos jours voir l'ancien nom sur des batiments historiques de la ville tels que l'hotel de ville ou on peut lire =Sa'ekiilen Kaatanan Okatale= signifiant "Maison des guildes de Sa'ekiila".
+Avant de remplacer [[./tjeelat_city.org][Tjeelat]] en tant que capitale de l'Union en 192 2E, la ville était connue sous le nom de Sa'ekiila. On peut encore de nos jours voir l'ancien nom sur des batiments historiques de la ville tels que l'hotel de ville ou on peut lire =Sa'ekiilen Kaatanan Okatale= signifiant "Maison des guildes de Sa'ekiila".
 
 
 [[./README.org][Retour au menu]]
