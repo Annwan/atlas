@@ -1,3 +1,0 @@
-#+TITLE: Tjaakesiva
-
-[[./README.org][Back to the menu]]
