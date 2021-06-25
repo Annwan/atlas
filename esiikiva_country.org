@@ -6,9 +6,9 @@ The union of the merchant cities of Esiikiva is a confederation of 6 trade focus
 
 ** Info Table
 
-| Capital  | [[./njelat_city.org][Njelat]] |
-| Founding | 133 2E                        |
-| Demonym  | Esiikivan                     |
+| Capital  | [[./njelat_city.org][Njelat]]    |
+| Founding | 133 2E    |
+| Demonym  | Esiikivan |
 
 ** Politics
 
@@ -16,6 +16,12 @@ The union council sits in Njelat, which is the de facto capital, even if each ci
 
 ** Language
 
-The main language spoken in Esiikiva (also the official language, and the language of the administration) is [[./esiikivan_language.org][Esiikivan]], but we can also hear all sort of tongues accross the realm due to the heavy trade it is a part of.
+The main language spoken in Esiikiva (also the official language, and the language of the administration) is [[./esiikivan_language.org][Esiikivan]], but we can also hear all sort of tongues accross the realms due to the heavy trade it is a part of.
+
+** Culture
+
+The union being formed around trade, being merchant is extremely well regarded, to the point it may grant some form of upper social status to the eyes of some. Techomage is also a respected proffession as they are the one who create and maintain the systems which make the whole economy run such mana engines for boats, ...
+
+
 
 [[./README.org][Back to the menu]]
