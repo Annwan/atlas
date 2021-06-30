@@ -1,69 +1,102 @@
 #+TITLE: Second Era
 
+[[./README.org][Back to the menu]]
+
 ** =0 2E= Great cataclism, end of the civil war, end of the Empire
+
+The Empire, which dominated the geopolitical landscape of all of the
+[[./1e_timeline.org][first era]] grew increasingly corrupt through a series of very young emperors who
+were easily swayed by moraly questionable advisors
 
 ** =99 2E= Foundation of the [[./na-aavin_country.org][Kingdom of Na'aavin]]
 
-On the ruins of the old world destroyed by the great civil war of the Empire, settlements in the
-northeast of the continent began to gather and unify under the banner, of Liten I of Si'eten. They will
-later be known as the realm of the north, or Na'aavin
+On the ruins of the old world destroyed by the great civil war of the Empire,
+settlements in the northeast of the continent began to gather and unify under
+the banner, of Liten I of Si'eten. They will later be known as the realm of the
+north, or Na'aavin.
 
 ** =103 2E= Rise of the Great Barrier
 
-Nations on the western end of the continent, fearing that if the people of the east united again
-under a single banner they could bring them down as violently as the great cataclism, magically rose
-a whole mountain chain with peaks a dozen of kilometers above sea level.
+Nations on the western end of the continent, fearing that if the people of the
+east united again under a single banner they could bring them down as violently
+as the great cataclism, magically rose a whole mountain chain with peaks a dozen
+kilometers above sea level.
 
-Obviously, it was not the work of a day, but rather the work of sevral generations working to a
-single goal, separate the continent in half to keep the destruction to the east of the barrier.
+Obviously, it was not the work of a day, but rather the work of sevral
+generations working to a single goal: separate the continent in half to keep the
+destruction to the east of the barrier.
 
-No one knows wha's guild
-and governor of the city.
+No one knows what happened next to those who rose the barrier as all
+comunications where cut for centuries
 
-At this point in time, the member cities are Sa'ekiila (Njelat), Osheiin and Atjekila (Tjeelat)
+** =133 2E= Foundation of the [[./esiikiva_country.org][Union of the merchant cities of Esiikiva]]
 
-It was then decided that the Union will be run by a council formed of the governors of each city,
-as well as that member cities will continue using their existing government form, and ways to
-nominate said government, to manage internal affairs.
+In order to resist the influence of the ever growing [[./na-aavin_country.org][Kingdom of Na'aavin]], some
+trade focussed, guild ran cities in the southeast of the continent gathered as a
+confederation under the impulse of Ketii Atelo'ee, Guild master of Atjekila's
+(Nowdays' Tjeelat) Carpenter's guild and governor of the city.
+
+At this point in time, the member cities are Sa'ekiila (Njelat), Osheiin and
+Atjekila (Tjeelat)
+
+It was then decided that the Union will be run by a council formed of the
+governors of each city, as well as that member cities will continue using their
+existing government form, and ways to nominate said government, to manage
+internal affairs.
 
 ** =169 2E= -- =172 2E= First Western Na'aavan War
 
-Greedy of expension, the [[./na-aavin_country.org][Kingdom of Na'aavin]] planned a massive invasion
-of the western realms that didnt join the kingdom willingly. However due to bad organization, the
-attack didnt go as planned and the Na'aavan army was sent home with heavy casualities.
+Greedy of expension, the [[./na-aavin_country.org][Kingdom of Na'aavin]] planned a massive invasion of the
+western realms that didnt join the kingdom willingly. However due to bad
+organization, the attack didnt go as planned and the Na'aavan army was sent home
+with heavy casualities.
 
 ** =183 2E= [[./tjaakesiva_city.org][Tjaakesiva]] and [[./talekoon_city.org][Talekoon]] join the [[./esiikiva_country.org][Union of Esiikiva]]
 
-Idk what to say here, they kinda just joined, no war, revolt or anything ...
+#+begin_quote   
+   Idk what to say here, they kinda just joined, no war, revolt or anything ...
+#+end_quote
 
-** =192 2E= The capital of the [[./esiikiva_country.org][Union of Merchant cities of Esiikiva]] is moved from [[./tjeelat_city.org][Tjeelat]] to [[./njelat_city.org][Njelat]].
+** =192 2E= The capital of the [[./esiikiva_country.org][Union of Merchant cities of Esiikiva]] is moved from [[./tjeelat_city.org][Tjeelat]] to [[./njelat_city.org][Njelat]]
 
-The union becoming harder and harder to manage from the remote and comparatively small city of
-Tjeelat, a general referundum accross all of the union asked about moving the capital. Despite huge
-resistance from Tjeelat itself (With more than 70% of votants asking aggainst) and a general
-indiference from Osehiin, the northern and thus farther away cities, which coincidentally were the
-bigger ones tipped the balance in favor of moving the capital. Sa'ekilla (Njelat) was then chosed as it was
-roughly in the middle and one of the founding cities.
+The union becoming harder and harder to manage from the remote and comparatively
+small city of Atjekila, a grand assembly was summoned to discuss moving the
+capital. Despite a vocal objection from representatives of Atjekila and a
+general indiference from those of Osehiin, the northern and thus farther away
+cities, which coincidentally were the bigger and wealthire ones tipped the
+balance in favor of moving the capital. Sa'ekiila was then chosed as it
+was roughly in the middle and one of the founding cities.
+
+Both Atjekila and Sa'ekiila were subsequentially renamed to Tjeelat and Njelat,
+respectively, whose meaning are Ancient (/Tjee-/ can also mean southern) capital
+and New (/Nje-/ can also mean northern) capital
+
+However not all of the capital functions were moved. As an exemple the
+university of thechnomagie stayed in Tjeelat up to this day
 
 ** =210 2E= [[./kasilee_city.org][Kasilee]] join the [[./esiikiva_country.org][Union of Esiikiva]]
 
+#+begin_quote
 Same as in 183 2E...
+#+end_quote
 
 ** =209 2E= -- =215 2E= Second Western Na'aavan War
 
-Nearly 40 years after the first war, the [[./na-aavin_country.org][Kingdom of Na'aavin]] tried once
-more to conquer the lands to the West. This time however the Na'aavan armies were much more
-organized, and with the help of bigger treasury diplomacy, almost effortlessly took the land.
-Those land now forms the provinces of Anee'av to the northwest and Enati'an to the southwest.
+Nearly 40 years after the first war, the [[./na-aavin_country.org][Kingdom of Na'aavin]] tried once more to
+conquer the lands to the West. This time however the Na'aavan armies were much
+more organized, and with the help of bigger treasury diplomacy, almost
+effortlessly took the land. Those land now forms the provinces of Anee'av to the
+northwest and Enati'an to the southwest.
 
 ** =275 2E= -- =340 2E= Nomadic raids from the Tjeehevan Desert
 
-Under the rule of a militaristic and expensionist leader, a group of tribes from the desert raided,
-pillaged and ransacked bordering cities from both Esiikiva and Na'aavin.
+Under the rule of a militaristic and expensionist leader, a group of tribes from
+the desert raided, pillaged and ransacked bordering cities from both Esiikiva
+and Na'aavin.
 
-The raiding spree slowed at the death of said leader. At this point the various local leaders were
-able to crush resistance from the last raiding tribes through diplomacy, either the one of the
-dialogue or the one of the blade.
+The raiding spree slowed at the death of said leader. At this point the various
+local leaders were able to crush resistance from the last raiding tribes through
+diplomacy, either the one of the dialogue or the one of the blade.
 
 ** =340 2E= -- =530 2E= Peace on the continent
 
@@ -71,4 +104,4 @@ Everyone minds their own buisness, things settle in.
 
 ** =533 2E= Nowdays, start of the campain
 
-[[./README.org][Back to the menu]]
+
