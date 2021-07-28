@@ -1,9 +1,5 @@
-#+TITLE: Nja'elavin
+#+TITLE: Nja'elavin - Contents
 #+AUTHOR: Annwan
-
-#+begin_quote
-Non-Link items are yet to do or migrate, sorry for the inconvenience
-#+end_quote
 
 
 ** Places
